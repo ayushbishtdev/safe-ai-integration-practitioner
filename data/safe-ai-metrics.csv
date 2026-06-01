@@ -1,0 +1,20 @@
+metric,value,unit,context,source_article
+Agile practitioners currently using AI tools,83,percent,Survey of 289 practitioners across 20+ countries,agile-practitioners-ai-integration-uncertainty
+Practitioners spending more than 25% of their week with AI,9,percent,Highlights shallow adoption despite high tool access,agile-practitioners-ai-integration-uncertainty
+Practitioners citing integration uncertainty as top barrier,54.3,percent,18 points ahead of any other concern including job replacement,agile-practitioners-ai-integration-uncertainty + safe-6-ai-integration-survival-guide
+Practitioners who received formal AI training in an Agile context,15,percent,Misdiagnosis as skills gap vs process gap,agile-practitioners-ai-integration-uncertainty
+ART sync overhead reduction achievable with 6 targeted AI flows,35,percent,Requires targeting admin friction points not ceremonies,ai-agile-release-train-automation
+Hidden wait states AI value stream mapping surfaces,40,percent,Compared to manual whiteboard sessions,ai-value-stream-mapping-enterprise
+Typical enterprise flow efficiency,<15,percent,Ratio of active work time to total lead time,ai-value-stream-mapping-enterprise
+Practitioners reporting increased productivity from AI,73.7,percent,Perceived gains — not yet tied to value stream economics,safe-ai-roi-measurement-value-stream
+Practitioners reporting reduced cognitive load from AI,71.6,percent,Not a capitalizable metric for CFO business cases,safe-ai-roi-measurement-value-stream
+Survey sample size (AI4Agile Practitioners Report),289,practitioners,Scrum.org AI4Agile Practitioners Report 2026,safe-6-ai-integration-survival-guide
+Countries represented in survey,20+,countries,Scrum.org AI4Agile Practitioners Report 2026,safe-6-ai-integration-survival-guide
+AI operating model stages,4,stages,Ad-Hoc (L0) to Value Stream Economics (L3),agile-practitioners-ai-integration-uncertainty
+PI Planning AI facilitation steps,5,steps,Strictly separates preparation from negotiation,ai-in-pi-planning-scaled-agile-framework
+ART automation flows,6,flows,Target admin friction between ceremonies not ceremonies themselves,ai-agile-release-train-automation
+SAFe AI practitioner certification path steps,5,steps,Sequence matters — skipping steps wastes training budget,certified-safe-ai-practitioner-learning-path
+CFO ROI formula lines,4,lines,Line 1 flow gain minus Lines 2+3 costs equals net VSM ROI,safe-ai-roi-measurement-value-stream
+Example cost-of-delay savings (3-week acceleration on $10K/wk feature),$30000,USD,Illustrative example of flow economic gain calculation,safe-ai-roi-measurement-value-stream
+New SAFe roles introduced with AI integration,2,roles,AI Product Owner and AI Model Steward,safe-6-ai-integration-survival-guide
+McKinsey high-performer AI redesign rate,3x,times more likely,High performers redesign workflows vs. merely adding tools,safe-6-ai-integration-survival-guide
